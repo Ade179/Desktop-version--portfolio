@@ -2,7 +2,7 @@
 
 # Portfolio For Desktop
 
-> DThis project depicts a mastery of linters and flexbox.
+> This project depicts a mastery of linters and flexbox.
 
 
 ## Built With
